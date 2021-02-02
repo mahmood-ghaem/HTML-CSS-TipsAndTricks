@@ -1,0 +1,135 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&display=swap');
+html,body{
+    font-family: 'Montserrat';
+    margin: 0;
+    a{
+        text-decoration: none;
+    }
+}
+header {
+    padding: 2em;
+
+    .logo{
+        color: black;
+        font-weight: bold;
+
+    }
+
+    .menu-btn{
+        width: 18px;
+        float: right;
+        cursor: pointer;
+    }
+}
+section{
+    padding: 4em;
+
+    h1{
+        font-size: 4em;
+        margin: 1em auto;
+        width: 70%;
+    
+        &::before{
+            content: '';
+            border-top: 5px solid lightgray;
+            display: block;
+        }
+    }
+}
+nav{
+    position: absolute;
+    background: black;
+    padding: 2em;
+    width: calc(100% - 4em);
+    height: calc(100vh - 4em);
+    display: none;
+    transform: scaleX(0);
+    transform-origin: right;
+
+    .close-btn{
+        width: 18px;
+        float: right;
+        cursor: pointer;
+        opacity: 0;
+    }
+    ul{
+        list-style-type: none;
+        margin:10% auto 0 auto ;
+        padding: 0;
+        display: grid;
+        grid-template-columns: repeat(4,25%);
+        width: 80%;
+
+        a{
+            color: white;
+            font-weight: bold;
+            font-size: 1.4em;
+
+        }
+        span{
+            color: gray;
+            display: block;
+            font-size: .75em;
+            margin-top: 20px;
+        }
+        li{
+            opacity: 0;
+        }
+    }
+}
+.show-menu{
+    display: block;
+    animation: slide-menu 1s ease-in forwards;
+
+    .close-btn{
+        animation: show-x 1s 1s forwards;
+    }
+    li:nth-of-type(1){
+        animation: menu-item-anim .6s forwards 1s ease-in-out;
+    }
+    li:nth-of-type(2){
+        animation: menu-item-anim .6s forwards 1.2s ease-in-out;
+    }
+    li:nth-of-type(3){
+        animation: menu-item-anim .6s forwards 1.4s ease-in-out;
+    }
+    li:nth-of-type(4){
+        animation: menu-item-anim .6s forwards 1.6s ease-in-out;
+    }
+}
+@keyframes slide-menu{
+    from{
+        transform: scaleX(0);
+    }
+    to{
+        transform: scaleX(1);
+    }
+}
+@keyframes show-x{
+    from{
+        opacity: 0;
+    }
+    to{
+        opacity: 1;
+    }
+}
+@keyframes menu-item-anim{
+    // from{
+    //     transform: translateY(60%);
+    //     opacity: 0;
+    // }
+    // to{
+    //     transform: translateY(0);
+    //     opacity: 1;
+    // }
+    0% { opacity:1; transform: matrix3d(1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 300, 0, 1); }
+    4.1% { transform: matrix3d(1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 125.912, 0, 1); }
+    8.11% { transform: matrix3d(1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 31.647, 0, 1); }
+    12.11% { transform: matrix3d(1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, -5.53, 0, 1); }
+    16.12% { transform: matrix3d(1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, -13.007, 0, 1); }
+    27.23% { transform: matrix3d(1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, -2.352, 0, 1); }
+    38.34% { transform: matrix3d(1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0.311, 0, 1); }
+    60.56% { transform: matrix3d(1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, -0.007, 0, 1); }
+    82.78% { transform: matrix3d(1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1); }
+    100% { opacity:1; transform: matrix3d(1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1); } 
+}
