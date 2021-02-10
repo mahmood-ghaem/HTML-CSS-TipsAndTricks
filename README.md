@@ -1,4 +1,4 @@
-# HTML-CSS-TipsAndTricks
+# HTML - CSS - JavaScript \*\*\* Tips & Tricks
 
 [01- Mega Menu](https://mahmood-ghaem.github.io/HTML-CSS-TipsAndTricks/01-%20Mega%20Menu/)
 
