@@ -10,8 +10,4 @@
 
 [03- Expanding Cards](https://mahmood-ghaem.github.io/HTML-CSS-TipsAndTricks/03-%20Expanding%20Cards/)
 
-![03- Expanding Cards](https://mahmood-ghaem.github.io/HTML-CSS-TipsAndTricks/03-%20Expanding%20Cards/screenshot.png)
-
-[02- Uber Effect](https://mahmood-ghaem.github.io/HTML-CSS-TipsAndTricks/02-%20Uber%20Effect/)
-
-![02- Uber Effect](https://mahmood-ghaem.github.io/HTML-CSS-TipsAndTricks/02-%20Uber%20Effect/screenshot.gif)
+![03- Expanding Cards](https://mahmood-ghaem.github.io/HTML-CSS-TipsAndTricks/03-%20Expanding%20Cards/screenshot.jpg)
