@@ -10,4 +10,4 @@
 
 [03- Expanding Cards](https://mahmood-ghaem.github.io/HTML-CSS-TipsAndTricks/03-%20Expanding%20Cards/)
 
-![03- Expanding Cards](https://mahmood-ghaem.github.io/HTML-CSS-TipsAndTricks/03-%20Expanding%20Cards/screenshot.gif)
+![03- Expanding Cards](https://mahmood-ghaem.github.io/HTML-CSS-TipsAndTricks/03-%20Expanding%20Cards/screenshot.png)
