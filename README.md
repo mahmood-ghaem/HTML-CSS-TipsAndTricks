@@ -9,3 +9,5 @@
 [03- Expanding Cards](https://mahmood-ghaem.github.io/HTML-CSS-TipsAndTricks/03-%20Expanding%20Cards/)
 
 [04- Progress Steps](https://mahmood-ghaem.github.io/HTML-CSS-TipsAndTricks/04-%20Progress%20Steps/)
+
+[05- Rotating Navigation](https://mahmood-ghaem.github.io/HTML-CSS-TipsAndTricks/05-%20Rotating%20Navigation/)
