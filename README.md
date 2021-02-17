@@ -11,3 +11,5 @@
 [04- Progress Steps](https://mahmood-ghaem.github.io/HTML-CSS-TipsAndTricks/04-%20Progress%20Steps/)
 
 [05- Rotating Navigation](https://mahmood-ghaem.github.io/HTML-CSS-TipsAndTricks/05-%20Rotating%20Navigation/)
+
+[06- Hidden Search Widget](https://mahmood-ghaem.github.io/HTML-CSS-TipsAndTricks/06-%20Hidden%20Search%20Widget/)
