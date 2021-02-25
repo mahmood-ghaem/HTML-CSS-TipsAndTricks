@@ -14,4 +14,4 @@
 
 [06- Hidden Search Widget](https://mahmood-ghaem.github.io/HTML-CSS-TipsAndTricks/06-%20Hidden%20Search%20Widget/)
 
-[07- Event Handlers](https://mahmood-ghaem.github.io/HTML-CSS-TipsAndTricks/07-%20Event%20Handlers/)
+[07- Event Handlers](https://mahmood-ghaem.github.io/HTML-CSS-TipsAndTricks/07-%20Event%20Handlers/index.html)
