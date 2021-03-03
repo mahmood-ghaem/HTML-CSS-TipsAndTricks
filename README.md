@@ -1,5 +1,9 @@
 # HTML - CSS - JavaScript \*\*\* Tips & Tricks
 
+## References
+
+- 1. <https://www.udemy.com/course/50-projects-50-days/>
+
 [01- Mega Menu](https://mahmood-ghaem.github.io/HTML-CSS-TipsAndTricks/01-%20Mega%20Menu/)
 
 ![01- Mega Menu](./01-%20Mega%20Menu/screenshot.gif)
