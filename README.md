@@ -18,6 +18,8 @@
 
 [08- Blurry Loading](https://mahmood-ghaem.github.io/HTML-CSS-TipsAndTricks/08-%20Blurry%20Loading/)
 
+[09- Scroll Animation](https://mahmood-ghaem.github.io/HTML-CSS-TipsAndTricks/09-%20Scroll%20Animation/)
+
 ## References
 
 1. <https://www.udemy.com/course/50-projects-50-days/>
