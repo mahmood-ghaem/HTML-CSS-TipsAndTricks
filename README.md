@@ -20,6 +20,10 @@
 
 [09- Scroll Animation](https://mahmood-ghaem.github.io/HTML-CSS-TipsAndTricks/09-%20Scroll%20Animation/)
 
+[10- Split Landing Page](https://mahmood-ghaem.github.io/HTML-CSS-TipsAndTricks/09-%20Split%20Landing%20Page/)
+
+[11- Nav Yoga](https://mahmood-ghaem.github.io/HTML-CSS-TipsAndTricks/11-nav-yoga-main/)
+
 ## References
 
 1. <https://www.udemy.com/course/50-projects-50-days/>
