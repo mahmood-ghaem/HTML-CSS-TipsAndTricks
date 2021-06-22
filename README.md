@@ -24,7 +24,7 @@
 
 [11- Nav Yoga](https://mahmood-ghaem.github.io/HTML-CSS-TipsAndTricks/11-nav-yoga-main/)
 
-[12- Hour Glass](https://mahmood-ghaem.github.io/HTML-CSS-TipsAndTricks/12-HourGlass/)
+[12- Hour Glass](https://mahmood-ghaem.github.io/HTML-CSS-TipsAndTricks/12-HourGlass/index.html)
 
 ## References
 
